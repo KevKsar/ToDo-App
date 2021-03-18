@@ -1,4 +1,4 @@
-# React-ToDo-App
+# ToDo-App
 
 ## Descritpion : 
 A small application to manage a task list.
@@ -10,5 +10,4 @@ add, delete and validate tasks stored on the local storage
 react and bootsrap
 
 ## Live demo : 
- https://kevksar.github.io/React-ToDo-App/
-# ToDo-App
+https://kevksar.github.io/ToDo-App/
