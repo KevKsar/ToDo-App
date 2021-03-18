@@ -1,0 +1,2 @@
+body{padding:8rem 4rem}.completed{text-decoration:line-through}.todoItem{display:-webkit-flex;display:flex;-webkit-justify-content:space-between;justify-content:space-between;-webkit-align-items:center;align-items:center}.todoDesc{margin:0}.todoBtnGroup{display:-webkit-flex;display:flex;grid-gap:1rem;gap:1rem}.trashIcon{width:1rem;height:1rem;background-image:url(/static/media/trash.f1497a79.svg)}.listControls{display:-webkit-flex;display:flex;grid-gap:.6rem;gap:.6rem}.listControls input{margin:0}
+/*# sourceMappingURL=main.e2d6db1c.chunk.css.map */
