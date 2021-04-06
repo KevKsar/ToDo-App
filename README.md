@@ -7,7 +7,7 @@ A small application to manage a task list.
 add, delete and validate tasks stored on the local storage
 
 ## Tech :
-react and bootsrap
+react and bootstrap
 
 ## Live demo : 
 https://kevksar.github.io/ToDo-App/
