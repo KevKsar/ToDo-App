@@ -18,10 +18,9 @@ export const TodoListItem = ({
                     type='checkbox'
                     onChange={() => handleCheckTodo(todo.id)}
                 />
-                <div
-                    className='trashIcon'
-                    onClick={() => handleRemoveTodo(todo.id)}
-                />
+                <button class="close" onClick={() => handleRemoveTodo(todo.id)}>
+                    <span aria-hidden="true">&times;</span>
+                </button>
             </div>
         </li>
     );
