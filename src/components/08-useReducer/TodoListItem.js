@@ -18,9 +18,7 @@ export const TodoListItem = ({
                     type='checkbox'
                     onChange={() => handleCheckTodo(todo.id)}
                 />
-                <button class="close" onClick={() => handleRemoveTodo(todo.id)}>
-                    <span aria-hidden="true">&times;</span>
-                </button>
+                <button type="button" class="btn-close" onClick={() => handleRemoveTodo(todo.id)}></button>
             </div>
         </li>
     );

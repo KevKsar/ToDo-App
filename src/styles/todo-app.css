@@ -5,8 +5,7 @@ body {
 .completed {
     text-decoration: line-through;
 }
-.todoList {
-}
+
 .todoItem {
     display: flex;
     justify-content: space-between;
@@ -20,10 +19,9 @@ body {
     gap: 1rem;
 }
 
-.trashIcon{
-    width: 1rem;
-    height: 1rem;
-    background-image: url('../../src/assets/trash.svg');
+.btn-close{
+    width: 0.5rem !important;
+    height: 0.5rem !important;   
 }
 
 .listControls{
