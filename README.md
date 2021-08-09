@@ -10,4 +10,4 @@ add, delete and validate tasks stored on the local storage
 react and bootstrap
 
 ## Live demo : 
-https://kevksar.github.io/ToDo-App/
+https://ksarkev.github.io/ToDo-App/
